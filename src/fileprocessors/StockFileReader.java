@@ -36,8 +36,7 @@ public class StockFileReader {
 	 */
 	public List<String> readFileData() throws IOException{
 		List<String> lines = new ArrayList<String>();
-		public List<String> readFileData() throws IOException{
-			List<String> lines = new ArrayList<String>();
+		
 	
 	    return lines;
 	}
