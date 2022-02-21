@@ -10,6 +10,9 @@ public class StockFileData {
 	
 	public void printData(){
 		System.out.println(data);
+		
+		//kdhgdhighdihfuhe
+		//,mjdhguheugiehg
 	}
 	
 	public void addData(List<HashMap<String, Double>> dataIn){
